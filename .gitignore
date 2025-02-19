@@ -30,3 +30,7 @@
 
 # Others
 *.hide.txt
+
+# .NET Core
+bin/
+obj/
