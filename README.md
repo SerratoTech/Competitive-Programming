@@ -16,4 +16,4 @@ Solutions of several online judges and problems of programming competitions (dat
 
 *Updated at: 2019-11-18*
 
-***Author**: Michael Serrato - **E-mail:** <mikebsg01@gmail.com>*
+***Author**: Michael Serrato - **E-mail:** <hello.serratotech@gmail.com>*
