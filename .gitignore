@@ -34,3 +34,6 @@
 # .NET Core
 bin/
 obj/
+
+# Include Expected Output Results
+!**/out/*.out
