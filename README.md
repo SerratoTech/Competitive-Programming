@@ -1,6 +1,6 @@
 # Competitive Programming
 
-Solutions of several online judges and problems of programming competitions (data structures and algorithms).
+Solutions from multiple Online Judges and Programming Contests. #DataStructures & #Algorithms (DSA).
 
 ### Counting of Solved Problems:
 
